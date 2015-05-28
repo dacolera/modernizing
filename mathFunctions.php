@@ -24,6 +24,6 @@ class Matematica {
 	}
 
 	function raizQuadrada($n1) {
-		return $n1  $n2;
+		return sqrt($n1);
 	}
 }
