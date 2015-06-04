@@ -11,8 +11,8 @@ class Strings {
 		return strrev($str);
 	}
     
-    function removeUltimoCaractere($str) {
-    	return substr($str, 0, (strlen($str)-1));
+    	function removeUltimoCaractere($str) {
+    		return substr($str, 0, (strlen($str)-1));
 	}
 
 	function contaNumeroDeCaracteres($str) {
